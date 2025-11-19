@@ -1,2 +1,2 @@
-# Nell-John
-My Personal Repository
+# Hello there! Welcome to my personal repository.
+This contains all about myself ---
